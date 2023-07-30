@@ -1,1 +1,1 @@
-<h1 align="center">haha funny readme go brrrrrr</h1>
+<h1 align="center">[funny readme title]</h1>
